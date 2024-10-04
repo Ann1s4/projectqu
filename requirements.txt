@@ -1,9 +1,6 @@
-﻿Babel @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/babel_1699475785740/work
-perseverance-python-buildout/croot/markupsafe_1707425732791/work
-matplotlib @ file:///C:/b/abs_ddmsoovv14/croot/matplotlib-suite_1713336426307/work
-matplotlib-inline @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/matplotlib-inline_1699484796387/work
-47479/work
-pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp312-cp312-win_amd64.
-seaborn @ file:///C:/b/abs_ca2mi1rgmn/croot/seaborn_1718303534355/work
-streamlit @ file:///C:/b/abs_12o66j0das/croot/streamlit_1710262558078/work
-matplotlib
+numpy==1.23.1
+pandas==1.5.3
+matplotlib==3.7.1
+streamlit==1.20.0
+Babel==2.12.1
+seaborn==0.12.2
